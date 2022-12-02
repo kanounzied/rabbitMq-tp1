@@ -1,4 +1,4 @@
-package same_shit_with_interfaces;
+package same_logic_with_interfaces;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;

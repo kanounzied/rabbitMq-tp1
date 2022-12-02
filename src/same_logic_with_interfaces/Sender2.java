@@ -1,4 +1,4 @@
-package same_shit_with_interfaces;
+package same_logic_with_interfaces;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
